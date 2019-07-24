@@ -1,0 +1,25 @@
+main{
+    background-color: rgb(216, 216, 216);
+    margin: auto;
+    width: 600px;
+}
+
+
+.Flag{
+ background-size: cover;
+ background-position-x: center;
+border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: solid;
+}
+
+li > div{
+display: inline-block;
+}
+li{
+    position: relative;
+}
+.name{position: absolute;
+top: 0
+}
